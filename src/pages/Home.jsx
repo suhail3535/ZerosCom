@@ -38,7 +38,7 @@ const Home = () => {
     }, []);
 
     return (
-        <div>
+        <div style={{marginTop:"70px"}}>
             <section id="hero">
                 <h4>Trade-in-fair</h4>
                 <h2>Super value deals</h2>
